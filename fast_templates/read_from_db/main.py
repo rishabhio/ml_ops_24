@@ -16,7 +16,7 @@ class MLModel(Base):
     version = Column(Integer )
 
 # Database connection
-DATABASE_URL = "postgresql://localuser:root@localhost/readOne"
+DATABASE_URL = "postgresql://<user>:<password>@<domain>/<db_name>"
 engine = create_engine(DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 
