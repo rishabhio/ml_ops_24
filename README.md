@@ -18,3 +18,15 @@ python -m ipykernel install --user --name=myenv
 
 ``` 
 
+
+# Presentations: 
+
+1. [Setting up Research Environment](presentations/Research-Env-Setup.pdf) 
+2. [Introduction to Cloud](presentations/Introduction-To-Cloud.pdf)
+3. [Introduction to Storage](presentations/Intro-To-Storage.pdf)
+4. [Git and GitHub VCS](presentations/Git-And-Github-VCS.pdf)
+5. [ML OPs Containers](presentations/MLOPS-Containers.pdf)
+6. [Packaging ML Models](presentations/Packaging-ML-Models.pdf) 
+7. [The MLOPs Framework](presentations/The-ML-OPS-Framework.pdf) 
+
+
