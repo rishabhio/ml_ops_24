@@ -29,4 +29,22 @@ python -m ipykernel install --user --name=myenv
 6. [Packaging ML Models](presentations/Packaging-ML-Models.pdf) 
 7. [The MLOPs Framework](presentations/The-ML-OPS-Framework.pdf) 
 
+8. [MLOPs Tools MLFlow](presentations/MLOPS-Tools-ML-Flow.pdf)
+
+
+# Companion Repositories: 
+
+1. [Packaging ML Model](https://github.com/rishabhio/packaging-ml-model)
+
+2. [Hello Github Actions](https://github.com/rishabhio/github-actions-test)
+
+3. [Auto Logging](https://github.com/rishabhio/Auto-Logging)
+
+
+4. [Distributed Queue](https://github.com/rishabhio/Distributed-Queue)
+
+5. [MLOPs Basics](https://github.com/rishabhio/ML-OPS)
+
+
+
 
