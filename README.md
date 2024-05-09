@@ -31,6 +31,8 @@ python -m ipykernel install --user --name=myenv
 
 8. [MLOPs Tools MLFlow](presentations/MLOPS-Tools-ML-Flow.pdf)
 
+9. [Hello World with Kafka](presentations/Hello-World-With-Apache-Kafka.pdf)
+
 
 # Companion Repositories: 
 
@@ -44,6 +46,22 @@ python -m ipykernel install --user --name=myenv
 4. [Distributed Queue](https://github.com/rishabhio/Distributed-Queue)
 
 5. [MLOPs Basics](https://github.com/rishabhio/ML-OPS)
+
+
+# Quizzes 
+
+1. [ML OPS 001](quizzes/ML-OPS-001%20-%20questions.pdf)
+
+2. [ML OPS 002](quizzes/ML-OPS-002%20-%20questions.pdf)
+
+3. [ML OPS 003](quizzes/MLOPS-003%20-%20questions.pdf)
+
+4. [ML OPS 004](quizzes/ML%20OPS%20004%20-%20questions.pdf)
+
+5. [ML OPS 005](quizzes/mlops-005%20-%20questions.pdf)
+
+6. [ML OPS 006](quizzes/ML-OPS-006%20-%20questions.pdf)
+
 
 
 
